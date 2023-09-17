@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="weather_background">#5B88F8</color>
+    <color name="status_bar_color">#4781F6</color>
+    <color name="secondary">#1870F6</color>
+</resources>
