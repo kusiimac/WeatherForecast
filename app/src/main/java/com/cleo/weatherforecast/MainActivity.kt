@@ -40,10 +40,6 @@ class MainActivity : AppCompatActivity() {
 
                 withContext(Dispatchers.Main) {
 
-//                val textview = findViewById<TextView>(R.id.response)
-//                textview.text = apiResponse.weather[0].description
-//                textview.text = apiResponse.toString()
-
                     findViewById<TextView>(R.id.city).text = apiResponse.name
 
                     findViewById<TextView>(R.id.weather).text = "${apiResponse.weather[0].main}"
