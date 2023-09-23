@@ -12,7 +12,7 @@ data class WeatherResponse(
     var sys:Sys,
     var timezone:Long,
     var id:Long,
-    var name:String?,
+    var name:String,
     var cod:Long
 )
 

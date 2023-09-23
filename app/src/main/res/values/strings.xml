@@ -2,5 +2,5 @@
     <string name="app_name">Weather</string>
     <string name="city">Kampala</string>
     <string name="weather_description">Most cloudy</string>
-    <string name="search_city">Search City</string>
+    <string name="search_city">Search by City</string>
 </resources>
